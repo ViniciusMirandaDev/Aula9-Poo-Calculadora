@@ -1,0 +1,13 @@
+C:\Users\amand\Documents\Projeto senai\Aula9-Poo\Aula9-Poo-Calculadora\bin\Debug\netcoreapp3.1\Aula9-Poo-Calculadora.exe
+C:\Users\amand\Documents\Projeto senai\Aula9-Poo\Aula9-Poo-Calculadora\bin\Debug\netcoreapp3.1\Aula9-Poo-Calculadora.deps.json
+C:\Users\amand\Documents\Projeto senai\Aula9-Poo\Aula9-Poo-Calculadora\bin\Debug\netcoreapp3.1\Aula9-Poo-Calculadora.runtimeconfig.json
+C:\Users\amand\Documents\Projeto senai\Aula9-Poo\Aula9-Poo-Calculadora\bin\Debug\netcoreapp3.1\Aula9-Poo-Calculadora.runtimeconfig.dev.json
+C:\Users\amand\Documents\Projeto senai\Aula9-Poo\Aula9-Poo-Calculadora\bin\Debug\netcoreapp3.1\Aula9-Poo-Calculadora.dll
+C:\Users\amand\Documents\Projeto senai\Aula9-Poo\Aula9-Poo-Calculadora\bin\Debug\netcoreapp3.1\Aula9-Poo-Calculadora.pdb
+C:\Users\amand\Documents\Projeto senai\Aula9-Poo\Aula9-Poo-Calculadora\obj\Debug\netcoreapp3.1\Aula9-Poo-Calculadora.csprojAssemblyReference.cache
+C:\Users\amand\Documents\Projeto senai\Aula9-Poo\Aula9-Poo-Calculadora\obj\Debug\netcoreapp3.1\Aula9-Poo-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\amand\Documents\Projeto senai\Aula9-Poo\Aula9-Poo-Calculadora\obj\Debug\netcoreapp3.1\Aula9-Poo-Calculadora.AssemblyInfoInputs.cache
+C:\Users\amand\Documents\Projeto senai\Aula9-Poo\Aula9-Poo-Calculadora\obj\Debug\netcoreapp3.1\Aula9-Poo-Calculadora.AssemblyInfo.cs
+C:\Users\amand\Documents\Projeto senai\Aula9-Poo\Aula9-Poo-Calculadora\obj\Debug\netcoreapp3.1\Aula9-Poo-Calculadora.dll
+C:\Users\amand\Documents\Projeto senai\Aula9-Poo\Aula9-Poo-Calculadora\obj\Debug\netcoreapp3.1\Aula9-Poo-Calculadora.pdb
+C:\Users\amand\Documents\Projeto senai\Aula9-Poo\Aula9-Poo-Calculadora\obj\Debug\netcoreapp3.1\Aula9-Poo-Calculadora.genruntimeconfig.cache
